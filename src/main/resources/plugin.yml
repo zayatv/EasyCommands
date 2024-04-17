@@ -1,0 +1,5 @@
+name: EasyCommands
+version: '${project.version}'
+main: com.zayatv.easycommands.EasyCommands
+api-version: '1.20'
+author: ZayaTV

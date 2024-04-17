@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomCommands:jar">
+    <output-path>$USER_HOME$/Desktop/Spigot 1.20.4/plugins</output-path>
+    <root id="archive" name="CustomCommands.jar">
+      <element id="module-output" name="EasyCommands" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

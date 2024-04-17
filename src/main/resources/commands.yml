@@ -1,0 +1,6 @@
+commands:
+  gm:
+    old: gamemode
+    args:
+      1: creative
+      0: survival
